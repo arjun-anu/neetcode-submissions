@@ -7,13 +7,13 @@ Synced automatically via NeetCode GitHub Integration.
 
 | Topic | Problems Solved |
 |---|---|
-| Arrays & Hashing | |
-| Two Pointers | |
-| Sliding Window | |
-| Stack | |
-| Binary Search | |
-| Linked List | |
-| Trees | |
+| Arrays & Hashing | 8/8|
+| Two Pointers | 3/3|
+| Sliding Window | 3/4|
+| Stack | 1/1|
+| Binary Search | 2/2|
+| Linked List | 5/6|
+| Trees | 4/11|
 | Graphs | |
 | Dynamic Programming | |
 
